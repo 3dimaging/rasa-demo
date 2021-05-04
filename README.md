@@ -1,6 +1,7 @@
 # Sara - the Rasa Demo Bot
 
 ## :surfer: Introduction
+Just insert a message for testing.
 The purpose of this repo is to showcase a contextual AI assistant built with the open source Rasa framework.
 
 Sara is an alpha version and lives in our docs, 
